@@ -105,7 +105,7 @@ Based in Dublin, Ireland, I bring a unique combination of technical leadership, 
           { id: 3, platform: 'Email', url: 'mailto:sahitairl98@gmail.com', icon: 'email', displayOrder: 3 },
         ])
         
-        // Mock resume data - Using professional resume
+        // Mock resume data - Using your actual resume
         setResumeUrl('/files/resume.pdf')
         setResumeAvailable(true)
         
