@@ -1,0 +1,202 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2800
+>>
+stream
+BT
+/F2 16 Tf
+50 750 Td
+(SAHITA MUDUNURI) Tj
+0 -20 Td
+/F1 12 Tf
+(Lead Software Engineer | Full-Stack Developer) Tj
+0 -15 Td
+(Dublin, Ireland | +353 894192524 | sahitairl98@gmail.com) Tj
+0 -10 Td
+(LinkedIn: linkedin.com/in/sahita-m-b01956213 | GitHub: github.com/SahitaPersonal) Tj
+
+0 -30 Td
+/F2 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -15 Td
+/F1 11 Tf
+(Experienced Lead Software Engineer with 6+ years of expertise in full-stack development,) Tj
+0 -12 Td
+(currently leading an 8-member team at Lloyds Technology Centre. Specialized in Open Banking,) Tj
+0 -12 Td
+(Payment Initiation Services, and building secure, scalable applications using React, Node.js,) Tj
+0 -12 Td
+(and modern cloud technologies. Proven track record of delivering solutions to 1M+ users.) Tj
+
+0 -25 Td
+/F2 14 Tf
+(WORK EXPERIENCE) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Lead Software Engineer | Lloyds Technology Centre) Tj
+0 -12 Td
+/F1 10 Tf
+(March 2024 - Present | Dublin, Ireland) Tj
+0 -10 Td
+(• Lead 8-member team to deliver web applications to 1M+ users) Tj
+0 -10 Td
+(• Contributed to API migration to Open Banking v4 standards by redesigning service interfaces) Tj
+0 -10 Td
+(• Developed scalable, secure APIs and backend services in Node.js for real-time payment flows) Tj
+0 -10 Td
+(• Designed responsive, accessible React front-end components for PISP features) Tj
+0 -10 Td
+(• Served as Release SPOC, triaging bugs and managing releases) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Senior Software Developer | LeaderJam LLC) Tj
+0 -12 Td
+/F1 10 Tf
+(September 2022 - March 2024 | Remote) Tj
+0 -10 Td
+(• Developed interactive learning platform utilizing ReactJS and NodeJS) Tj
+0 -10 Td
+(• Implemented itineraries functionalities for coaching sessions) Tj
+0 -10 Td
+(• Developed Udemy-like course management system and course player) Tj
+0 -10 Td
+(• Built Event management system for coaching companies) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Senior Software Engineer | ValueLabs Solutions) Tj
+0 -12 Td
+/F1 10 Tf
+(May 2019 - September 2022 | Hyderabad, India) Tj
+0 -10 Td
+(• Developed mobile and web applications for hospitality management solutions) Tj
+0 -10 Td
+(• Worked on cross-platform mobile applications using Xamarin and React Native) Tj
+0 -10 Td
+(• Implemented token-based and SAML authentication for mobile applications) Tj
+0 -10 Td
+(• Deployed mobile applications to Google Play Store and Apple Store) Tj
+
+0 -25 Td
+/F2 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -15 Td
+/F1 11 Tf
+(Frontend: React, JavaScript, TypeScript, HTML5, CSS3, Redux) Tj
+0 -12 Td
+(Backend: Node.js, Express.js, C#, .NET) Tj
+0 -12 Td
+(Mobile: React Native, Xamarin) Tj
+0 -12 Td
+(Database: MySQL, PostgreSQL) Tj
+0 -12 Td
+(Cloud & DevOps: Google Cloud Platform, Azure, Docker) Tj
+0 -12 Td
+(Testing: Jest, NUnit) Tj
+0 -12 Td
+(Tools: Git, GitHub, Jira, Swagger) Tj
+
+0 -25 Td
+/F2 14 Tf
+(EDUCATION) Tj
+0 -15 Td
+/F2 12 Tf
+(Bachelor of Technology in Computer Science and Engineering) Tj
+0 -12 Td
+/F1 10 Tf
+(Vishnu Institute of Technology | 2015 - 2019 | 87.7%) Tj
+
+0 -20 Td
+/F2 14 Tf
+(CERTIFICATIONS) Tj
+0 -15 Td
+/F1 11 Tf
+(• Google Cloud Associate Certified - December 2024) Tj
+0 -12 Td
+(• Microsoft Azure AZ-900 - May 2021) Tj
+0 -12 Td
+(• Pega Certified Senior System Architect - June 2019) Tj
+0 -12 Td
+(• Pega Certified System Architect - November 2018) Tj
+
+0 -20 Td
+/F2 14 Tf
+(ACHIEVEMENTS) Tj
+0 -15 Td
+/F1 11 Tf
+(• Leadership Excellence - Promoted to Team Lead within one year at Lloyds) Tj
+0 -12 Td
+(• Outstanding Contribution Award - Lloyds Technology Centre \(2024\)) Tj
+0 -12 Td
+(• STAR Performer of the Quarter - ValueLabs Solutions \(2020, 2022\)) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000003126 00000 n 
+0000003183 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+3245
+%%EOF
