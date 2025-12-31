@@ -50,7 +50,7 @@ export default function Home() {
         if (resumeUrl) {
           const fullResumeUrl = resumeUrl.startsWith('http') 
             ? resumeUrl 
-            : `http://localhost:3001${resumeUrl}`
+            : resumeUrl // Use relative URL directly for Vercel
           setResumeUrl(fullResumeUrl)
         }
         setResumeAvailable(profileData.resume?.available || false)
