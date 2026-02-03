@@ -5,6 +5,7 @@ import {
   AchievementsResponse,
   ApiResponse 
 } from '@/types/api'
+import { experienceData } from '@/data/experience'
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
@@ -37,8 +38,9 @@ class ApiClient {
         }
       }
       
-      if (!API_BASE_URL) {
-        throw new Error('No backend API configured - using fallback data')
+      // Use static data for experience endpoints when no backend
+      if (!API_BASE_URL || API_BASE_URL.includes('localhost')) {
+        return this.getStaticData<T>(endpoint)
       }
 
       // Ensure endpoint starts with /
@@ -78,6 +80,13 @@ class ApiClient {
       return data.data as T
     } catch (error) {
       console.error(`API request failed for ${endpoint}:`, error)
+      
+      // Fallback to static data for experience endpoints
+      if (endpoint.includes('/api/experience')) {
+        console.log('Falling back to static experience data')
+        return this.getStaticData<T>(endpoint)
+      }
+      
       console.error('Error details:', {
         message: error instanceof Error ? error.message : 'Unknown error',
         stack: error instanceof Error ? error.stack : undefined,
@@ -91,6 +100,16 @@ class ApiClient {
       }
       throw error
     }
+  }
+
+  private getStaticData<T>(endpoint: string): T {
+    // Return static data based on endpoint
+    if (endpoint === '/api/experience' || endpoint === '/api/experience/work') {
+      return experienceData as T
+    }
+    
+    // Add more static data as needed
+    throw new Error(`No static data available for ${endpoint}`)
   }
 
   // Cache management methods
